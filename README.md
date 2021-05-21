@@ -33,3 +33,7 @@ It will find the current name of the WordPress web site, and ask you for the new
 It will then search and replace the name in WordPress database (all tables in the 
 database) and then in the files. (It replaces only in files with extension *.css,
 *.php. You can edit the script to add more extensions).
+
+## Requirements
+
+Requires that [wp-cli](https://wp-cli.org/) will be installed on the server.
