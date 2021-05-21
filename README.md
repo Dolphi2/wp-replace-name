@@ -15,13 +15,13 @@ Copy the script to a central location on your server, for example:
 
 cd to the root of a WordPress installation, as a regular user, for exaple:
 
-```
+```bash
 cd ~/public_html
 ```
 
 Run the script:
 
-```
+```bash
 wp-replace-name.sh
 
 ```
