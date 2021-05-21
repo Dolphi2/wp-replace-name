@@ -5,6 +5,9 @@
 Runs few checks before starting the name replacement. If the script is executed 
 as root or not inside a WordPress installation, it exists without replacing the name.
 
+After the initial validaion it will search and replace the web site name in the WordPress
+database and files.
+
 ## How to use?
 
 Copy the script to a central location on your server, for example:
